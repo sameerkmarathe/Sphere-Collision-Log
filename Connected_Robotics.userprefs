@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LogFIles.cs">
+    <Files>
+      <File FileName="Assets\Scripts\moveStraight.cs" Line="8" Column="4" />
+      <File FileName="Assets\Scripts\spawn.cs" Line="24" Column="34" />
+      <File FileName="Assets\Scripts\TImer.cs" Line="11" Column="104" />
+      <File FileName="Assets\Scripts\LogFIles.cs" Line="15" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
